@@ -9,6 +9,9 @@ NodeJs, ExpressJS
 **Frontend:**
 ReactJs, Redux
 
+**Database**
+Mongo
+
 ##Setup
 **Install**
 

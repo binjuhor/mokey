@@ -1,0 +1,6 @@
+node_modules/
+default.json
+.now
+yarn.lock
+.idea
+build/

@@ -1,8 +1,8 @@
-##Mokey Me a NodeJs app for your finance
+## Mokey Me a NodeJs app for your finance
 *A finance app help user manage their money*
 practice with MERN front to back: Full Stack React, Redux & Node.js
 
-##Stack
+## Stack
 **Backend:**
 NodeJs, ExpressJS
 
@@ -12,7 +12,7 @@ ReactJs, Redux
 **Database**
 Mongo
 
-##Setup
+## Setup
 **Install**
 
 cd to root folder run command `yarn`
@@ -35,5 +35,5 @@ File `config/default.json`
 }
 ```
 
-##Library
+## Library
 **Previous project**:  https://github.com/binjuhor/devconnector
